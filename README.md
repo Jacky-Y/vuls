@@ -4,7 +4,7 @@ The CMS in use is the "Free and Open Source Inventory Management System." The we
 
 After downloading the CMS zip file, extract the PHP source code and place it in the web directory. Follow the setup instructions to create a MySQL database named "ample." Next, import the file ample/database/ample.sql to set up the necessary tables. Modify the configuration file at ample\app\config\config.php and set the database name, username, and password. Once done, navigate to the website. If the following page appears without any database error, it indicates successful environment setup. (From the database, the default username can be observed as mayuri.infospace@gmail.com, and the password is 'admin'. The database stores the hash value of the password.)
 
-![image-20230814204907264](/images/image-20230814204907264.png)
+![image-20230814204907264]([/images/image-20230814204907264.png](https://github.com/Jacky-Y/vuls/blob/main/images/image-20230814204907264.png))
 
 ### 2. Manual Verification
 
