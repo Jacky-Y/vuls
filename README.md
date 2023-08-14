@@ -1,4 +1,4 @@
-The CMS in use is the "Free and Open Source Inventory Management System." The website link is Free and Open Source Inventory Management System PHP Source Code | SourceCodester. The discovered vulnerability is a blind SQL injection. The first step is to set up the environment. Then, a manual test will be conducted to verify the vulnerability. Finally, sqlmap will be used to confirm its existence.
+The CMS in use is the "Free and Open Source Inventory Management System." The website link is  [Free and Open Source inventory management system php source code | SourceCodester](https://www.sourcecodester.com/php/16741/free-and-open-source-inventory-management-system-php-source-code.html). The discovered vulnerability is a blind SQL injection. The first step is to set up the environment. Then, a manual test will be conducted to verify the vulnerability. Finally, sqlmap will be used to confirm its existence.
 
 ### 1. Setting up the environment
 
