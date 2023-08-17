@@ -9,6 +9,11 @@ In step1, Click Proceed.
 In step2, Feel free to fill in the blanks and click save.
 In step3, and enter <script>alert('xss')</script> in the content and click save.
 
+![image-xss1](images/xss1.png)
 
 
 Then Click take a look at your website to trigger xss and it is a storage type.
+
+![image-xss2](images/xss2.png)
+
+![image-xss3](images/xss3.png)
