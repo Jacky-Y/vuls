@@ -9,7 +9,7 @@ Login to proceed and enter the specified page below
 http://pluck.com/admin.php?action=installmodule
 ![image-upload2](images/upload2.png)
 
-To upload a file in install modules, prepare a test.php file with <? php phpinfo(); ?>. Compress it into a zip file for uploading. 
+To upload a file in install modules, prepare a test.php file with &lt;? php phpinfo(); ?&gt;. Compress it into a zip file for uploading. 
 ![image-upload3](images/upload3.png)
 ![image-upload4](images/upload4.png)
 
