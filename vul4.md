@@ -9,9 +9,11 @@
 ## 3 WordPress indicates a plugin installation failure.
 ![image-word3](images/word3.png)
 
-## 4 Howver, the shell is not deleted and the shell is stored in the website directory at /wp-content/upgrade/shell/shell.php.
+## 4 However, the shell is not deleted and the shell is stored in the website directory at /wp-content/upgrade/shell/shell.php.
 ![image-word4](images/word4.png)
 
 ## 5 Using the Behinder client to connect to the shell, a successful connection grants webshell access.
 ![image-word5](images/word5.png)
+
+![image-word6](images/word6.png)
 
