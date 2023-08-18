@@ -18,7 +18,7 @@
 ![image-wpxss7](images/wpxss7.png)
 
 **7. Switch to the "tom" user account (which also has admin privileges), and moving the cursor over the table again will trigger the XSS. This behavior suggests that it might be a stored XSS.**
-![image-wpxss8](images/wpxss8.png)
+![image-wpxss88](images/wpxss88.png)
 
 **8. However, it's not just the event[event_banner][type] parameter that can cause XSS. In fact, it is the event[xxx][type] parameter located in the first row of this form that causes XSS. By dragging the button on the left of each row and moving it to the first row, then modifying the POST request's event[xxx][type] to oNmOuSeOvEr=prompt(1)//, XSS can also be triggered. For instance, if you move the "Event Banner" row to the top and modify the POST request's event[event_banner][type] to oNmOuSeOvEr=prompt(1)//, a popup will appear when the cursor is moved over the form.**
 ![image-wpxss9](images/wpxss9.png)
