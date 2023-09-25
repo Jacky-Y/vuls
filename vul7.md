@@ -11,7 +11,7 @@
 ## 4. Click on the 'uploadfile' folder to enter it.
 ![image-up4](images/uupload4.png)
 
-## 5. Click 'Choose File' and select 'test.php'. The content inside 'test.php' is <?php phpinfo(); ?>.
+## 5. Click 'Choose File' and select 'test.php'. The content inside 'test.php' is `<?php phpinfo(); ?>`.
 ![image-up5](images/uupload5.png)
 
 ## 6. Click 'Upload'. At this point, 'test.php' has been uploaded to the 'uploadfile' folder located in the website's root directory.
