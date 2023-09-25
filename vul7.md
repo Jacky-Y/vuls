@@ -1,6 +1,6 @@
 ##  Vulnerability Reproduction:
 ## 1. The CMS with the vulnerability is named UCMS. Its official website is http://uuu.la/. You can download it by clicking the button highlighted in red.
-![image-up1](images/uupload1.png)
+![image-up1](images/uupload1.jpg)
 
 ## 2. After the CMS is installed, assuming the website's domain is http://ucms.com/, you can access the website's backend login page via http://ucms.com/ucms/login.php.
 ![image-up2](images/uupload2.png)
